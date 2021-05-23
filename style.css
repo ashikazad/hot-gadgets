@@ -1,0 +1,39 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 0px 20px;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+h3{
+    color: gold;
+    font-size: 20px;
+}
+.card-body{
+    text-align: center;
+}
+.card-footer{
+    text-align: center;
+    background-color: white;
+    border: none;
+}
+.card{
+    padding: 20px 40px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.head-line h5{
+    font-size: 30px;
+    text-align: center;
+}
+.bag{
+    text-align: center;
+    padding: 10px 20px;
+}
